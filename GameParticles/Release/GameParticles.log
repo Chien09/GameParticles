@@ -1,0 +1,12 @@
+﻿  WinEventHandler.cpp
+  WinOpenGLDevice.cpp
+  main.cpp
+  Matrix.cpp
+  Vect4D.cpp
+  Particle.cpp
+  ParticleEmitter.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameParticles.vcxproj -> C:\Users\machi\Desktop\Depaul University\2nd Year\CSC 461 (Optimized C++)\P4_Workspace\keenan2019fall_csc461\student\cliu70\GameParticles\Release\GameParticles.exe
